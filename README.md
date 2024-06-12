@@ -8,7 +8,7 @@ The project only need html and javascript to work.
 
 
 ## HOW TO TRY:
-You can try this on https://htmlpreview.github.io/?https://github.com/jjmillar/pacmen_excercise/blob/main/index.html
+You can try this on https://pacmenexercise.netlify.app/
 
 ## LICENSE
 This code runs under MIT License.
